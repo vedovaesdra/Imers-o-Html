@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://media.istockphoto.com/id/1448152764/pt/foto/data-science-and-big-data-analysis-technology-data-scientist-working-with-complex.jpg?s=612x612&w=is&k=20&c=rao-YD9cX_SdOkfbPi0ymIBIRxLkZv0nvfxwByPcO98=);
+    background-size: 100%;
+   font-family: Arial; 
+  }
+  .menu {
+    background-color: white;
+  }
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+    }
+  .site-subtitle {
+    font-style: italic;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
